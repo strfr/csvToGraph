@@ -1,0 +1,6 @@
+X1_ActualPosition,X1_ActualVelocity,X1_ActualAcceleration,X1_CommandPosition,X1_CommandVelocity,X1_CommandAcceleration
+1.98E+02,0.00E+00,0.00E+00,1.98E+02,0.00E+00,0.00E+00
+1.98E+02,-1.08E+01,-3.50E+02,1.98E+02,-1.36E+01,-3.58E+02
+1.96E+02,-1.78E+01,-6.25E+00,1.96E+02,-1.79E+01,-9.54E-05
+1.94E+02,-1.80E+01,0.00E+00,1.94E+02,-1.79E+01,-9.54E-05
+1.93E+02,-1.79E+01,-1.88E+01,1.92E+02,-1.79E+01,9.54E-05
